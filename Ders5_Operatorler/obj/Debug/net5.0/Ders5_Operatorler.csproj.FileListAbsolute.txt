@@ -1,0 +1,16 @@
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\bin\Debug\net5.0\Ders5_Operatorler.exe
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\bin\Debug\net5.0\Ders5_Operatorler.deps.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\bin\Debug\net5.0\Ders5_Operatorler.runtimeconfig.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\bin\Debug\net5.0\Ders5_Operatorler.runtimeconfig.dev.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\bin\Debug\net5.0\Ders5_Operatorler.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\bin\Debug\net5.0\ref\Ders5_Operatorler.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\bin\Debug\net5.0\Ders5_Operatorler.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\obj\Debug\net5.0\Ders5_Operatorler.csprojAssemblyReference.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\obj\Debug\net5.0\Ders5_Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\obj\Debug\net5.0\Ders5_Operatorler.AssemblyInfoInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\obj\Debug\net5.0\Ders5_Operatorler.AssemblyInfo.cs
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\obj\Debug\net5.0\Ders5_Operatorler.csproj.CoreCompileInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\obj\Debug\net5.0\Ders5_Operatorler.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\obj\Debug\net5.0\ref\Ders5_Operatorler.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\obj\Debug\net5.0\Ders5_Operatorler.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders5_Operatorler\obj\Debug\net5.0\Ders5_Operatorler.genruntimeconfig.cache
