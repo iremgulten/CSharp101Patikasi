@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders4_Degiskenler/1.0.0": {
+        "runtime": {
+          "Ders4_Degiskenler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders4_Degiskenler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

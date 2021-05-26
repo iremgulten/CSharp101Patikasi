@@ -1,0 +1,16 @@
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\bin\Debug\net5.0\Ders4_Degiskenler.exe
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\bin\Debug\net5.0\Ders4_Degiskenler.deps.json
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\bin\Debug\net5.0\Ders4_Degiskenler.runtimeconfig.json
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\bin\Debug\net5.0\Ders4_Degiskenler.runtimeconfig.dev.json
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\bin\Debug\net5.0\Ders4_Degiskenler.dll
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\bin\Debug\net5.0\ref\Ders4_Degiskenler.dll
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\bin\Debug\net5.0\Ders4_Degiskenler.pdb
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\obj\Debug\net5.0\Ders4_Degiskenler.csprojAssemblyReference.cache
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\obj\Debug\net5.0\Ders4_Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\obj\Debug\net5.0\Ders4_Degiskenler.AssemblyInfoInputs.cache
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\obj\Debug\net5.0\Ders4_Degiskenler.AssemblyInfo.cs
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\obj\Debug\net5.0\Ders4_Degiskenler.csproj.CoreCompileInputs.cache
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\obj\Debug\net5.0\Ders4_Degiskenler.dll
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\obj\Debug\net5.0\ref\Ders4_Degiskenler.dll
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\obj\Debug\net5.0\Ders4_Degiskenler.pdb
+D:\Drive\PatikaEgitim\C#101_Patikasi\Ders4_Degiskenler\obj\Debug\net5.0\Ders4_Degiskenler.genruntimeconfig.cache

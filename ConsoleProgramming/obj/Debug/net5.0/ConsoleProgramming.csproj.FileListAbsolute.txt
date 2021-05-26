@@ -1,0 +1,16 @@
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\bin\Debug\net5.0\ConsoleProgramming.exe
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\bin\Debug\net5.0\ConsoleProgramming.deps.json
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\bin\Debug\net5.0\ConsoleProgramming.runtimeconfig.json
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\bin\Debug\net5.0\ConsoleProgramming.runtimeconfig.dev.json
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\bin\Debug\net5.0\ConsoleProgramming.dll
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\bin\Debug\net5.0\ref\ConsoleProgramming.dll
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\bin\Debug\net5.0\ConsoleProgramming.pdb
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.csprojAssemblyReference.cache
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.AssemblyInfoInputs.cache
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.AssemblyInfo.cs
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.csproj.CoreCompileInputs.cache
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.dll
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\obj\Debug\net5.0\ref\ConsoleProgramming.dll
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.pdb
+D:\Drive\PatikaEgitim\C#101_Patikasi\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.genruntimeconfig.cache
