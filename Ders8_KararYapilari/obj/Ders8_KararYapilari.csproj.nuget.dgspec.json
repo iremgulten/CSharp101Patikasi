@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders8_KararYapilari\\Ders8_KararYapilari.csproj": {}
+    "d:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders8_KararYapilari\\Ders8_KararYapilari.csproj": {}
   },
   "projects": {
-    "D:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders8_KararYapilari\\Ders8_KararYapilari.csproj": {
+    "d:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders8_KararYapilari\\Ders8_KararYapilari.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders8_KararYapilari\\Ders8_KararYapilari.csproj",
+        "projectUniqueName": "d:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders8_KararYapilari\\Ders8_KararYapilari.csproj",
         "projectName": "Ders8_KararYapilari",
-        "projectPath": "D:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders8_KararYapilari\\Ders8_KararYapilari.csproj",
+        "projectPath": "d:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders8_KararYapilari\\Ders8_KararYapilari.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders8_KararYapilari\\obj\\",
+        "outputPath": "d:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders8_KararYapilari\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
