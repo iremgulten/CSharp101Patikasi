@@ -1,0 +1,16 @@
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\bin\Debug\net5.0\Ders7_HataYonetimi.exe
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\bin\Debug\net5.0\Ders7_HataYonetimi.deps.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\bin\Debug\net5.0\Ders7_HataYonetimi.runtimeconfig.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\bin\Debug\net5.0\Ders7_HataYonetimi.runtimeconfig.dev.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\bin\Debug\net5.0\Ders7_HataYonetimi.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\bin\Debug\net5.0\ref\Ders7_HataYonetimi.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\bin\Debug\net5.0\Ders7_HataYonetimi.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\obj\Debug\net5.0\Ders7_HataYonetimi.csprojAssemblyReference.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\obj\Debug\net5.0\Ders7_HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\obj\Debug\net5.0\Ders7_HataYonetimi.AssemblyInfoInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\obj\Debug\net5.0\Ders7_HataYonetimi.AssemblyInfo.cs
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\obj\Debug\net5.0\Ders7_HataYonetimi.csproj.CoreCompileInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\obj\Debug\net5.0\Ders7_HataYonetimi.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\obj\Debug\net5.0\ref\Ders7_HataYonetimi.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\obj\Debug\net5.0\Ders7_HataYonetimi.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders7_HataYonetimi\obj\Debug\net5.0\Ders7_HataYonetimi.genruntimeconfig.cache
