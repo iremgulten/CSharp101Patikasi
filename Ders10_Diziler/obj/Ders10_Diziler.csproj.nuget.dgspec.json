@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders10_Diziler\\Ders10_Diziler.csproj": {}
+    "d:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders10_Diziler\\Ders10_Diziler.csproj": {}
   },
   "projects": {
-    "D:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders10_Diziler\\Ders10_Diziler.csproj": {
+    "d:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders10_Diziler\\Ders10_Diziler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders10_Diziler\\Ders10_Diziler.csproj",
+        "projectUniqueName": "d:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders10_Diziler\\Ders10_Diziler.csproj",
         "projectName": "Ders10_Diziler",
-        "projectPath": "D:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders10_Diziler\\Ders10_Diziler.csproj",
+        "projectPath": "d:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders10_Diziler\\Ders10_Diziler.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders10_Diziler\\obj\\",
+        "outputPath": "d:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\Ders10_Diziler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
