@@ -1,0 +1,16 @@
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\bin\Debug\net5.0\GenericList.exe
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\bin\Debug\net5.0\GenericList.deps.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\bin\Debug\net5.0\GenericList.runtimeconfig.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\bin\Debug\net5.0\GenericList.runtimeconfig.dev.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\bin\Debug\net5.0\GenericList.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\bin\Debug\net5.0\ref\GenericList.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\bin\Debug\net5.0\GenericList.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\obj\Debug\net5.0\GenericList.csprojAssemblyReference.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\obj\Debug\net5.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\obj\Debug\net5.0\GenericList.AssemblyInfoInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\obj\Debug\net5.0\GenericList.AssemblyInfo.cs
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\obj\Debug\net5.0\GenericList.csproj.CoreCompileInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\obj\Debug\net5.0\GenericList.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\obj\Debug\net5.0\ref\GenericList.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\obj\Debug\net5.0\GenericList.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders14_Koleksiyonlar\ArrayList\obj\Debug\net5.0\GenericList.genruntimeconfig.cache
