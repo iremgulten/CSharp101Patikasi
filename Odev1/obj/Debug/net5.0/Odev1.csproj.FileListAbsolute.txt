@@ -1,0 +1,16 @@
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\bin\Debug\net5.0\Odev1.exe
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\bin\Debug\net5.0\Odev1.deps.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\bin\Debug\net5.0\Odev1.runtimeconfig.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\bin\Debug\net5.0\Odev1.runtimeconfig.dev.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\bin\Debug\net5.0\Odev1.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\bin\Debug\net5.0\ref\Odev1.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\bin\Debug\net5.0\Odev1.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\obj\Debug\net5.0\Odev1.csprojAssemblyReference.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\obj\Debug\net5.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\obj\Debug\net5.0\Odev1.AssemblyInfoInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\obj\Debug\net5.0\Odev1.AssemblyInfo.cs
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\obj\Debug\net5.0\Odev1.csproj.CoreCompileInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\obj\Debug\net5.0\Odev1.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\obj\Debug\net5.0\ref\Odev1.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\obj\Debug\net5.0\Odev1.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev1\obj\Debug\net5.0\Odev1.genruntimeconfig.cache
