@@ -1,0 +1,16 @@
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\bin\Debug\net5.0\MetotOverloading.exe
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\bin\Debug\net5.0\MetotOverloading.deps.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\bin\Debug\net5.0\MetotOverloading.runtimeconfig.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\bin\Debug\net5.0\MetotOverloading.runtimeconfig.dev.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\bin\Debug\net5.0\MetotOverloading.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\bin\Debug\net5.0\ref\MetotOverloading.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\bin\Debug\net5.0\MetotOverloading.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\obj\Debug\net5.0\MetotOverloading.csprojAssemblyReference.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\obj\Debug\net5.0\MetotOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\obj\Debug\net5.0\MetotOverloading.AssemblyInfoInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\obj\Debug\net5.0\MetotOverloading.AssemblyInfo.cs
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\obj\Debug\net5.0\MetotOverloading.csproj.CoreCompileInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\obj\Debug\net5.0\MetotOverloading.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\obj\Debug\net5.0\ref\MetotOverloading.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\obj\Debug\net5.0\MetotOverloading.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotOverloading\obj\Debug\net5.0\MetotOverloading.genruntimeconfig.cache
