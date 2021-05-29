@@ -1,0 +1,16 @@
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\bin\Debug\net5.0\DateTime-MathMetotlari.exe
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\bin\Debug\net5.0\DateTime-MathMetotlari.deps.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\bin\Debug\net5.0\DateTime-MathMetotlari.runtimeconfig.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\bin\Debug\net5.0\DateTime-MathMetotlari.runtimeconfig.dev.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\bin\Debug\net5.0\DateTime-MathMetotlari.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\bin\Debug\net5.0\ref\DateTime-MathMetotlari.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\bin\Debug\net5.0\DateTime-MathMetotlari.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\obj\Debug\net5.0\DateTime-MathMetotlari.csprojAssemblyReference.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\obj\Debug\net5.0\DateTime-MathMetotlari.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\obj\Debug\net5.0\DateTime-MathMetotlari.AssemblyInfoInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\obj\Debug\net5.0\DateTime-MathMetotlari.AssemblyInfo.cs
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\obj\Debug\net5.0\DateTime-MathMetotlari.csproj.CoreCompileInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\obj\Debug\net5.0\DateTime-MathMetotlari.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\obj\Debug\net5.0\ref\DateTime-MathMetotlari.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\obj\Debug\net5.0\DateTime-MathMetotlari.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders13_HazirMetotlar\DateTime-MathMetotlari\obj\Debug\net5.0\DateTime-MathMetotlari.genruntimeconfig.cache
