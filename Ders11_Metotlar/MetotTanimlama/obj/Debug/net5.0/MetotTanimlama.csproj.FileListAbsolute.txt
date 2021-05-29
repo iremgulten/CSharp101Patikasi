@@ -1,0 +1,16 @@
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\bin\Debug\net5.0\MetotTanimlama.exe
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\bin\Debug\net5.0\MetotTanimlama.deps.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\bin\Debug\net5.0\MetotTanimlama.runtimeconfig.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\bin\Debug\net5.0\MetotTanimlama.runtimeconfig.dev.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\bin\Debug\net5.0\MetotTanimlama.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\bin\Debug\net5.0\ref\MetotTanimlama.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\bin\Debug\net5.0\MetotTanimlama.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\obj\Debug\net5.0\MetotTanimlama.csprojAssemblyReference.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\obj\Debug\net5.0\MetotTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\obj\Debug\net5.0\MetotTanimlama.AssemblyInfoInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\obj\Debug\net5.0\MetotTanimlama.AssemblyInfo.cs
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\obj\Debug\net5.0\MetotTanimlama.csproj.CoreCompileInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\obj\Debug\net5.0\MetotTanimlama.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\obj\Debug\net5.0\ref\MetotTanimlama.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\obj\Debug\net5.0\MetotTanimlama.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders11_Metotlar\MetotTanimlama\obj\Debug\net5.0\MetotTanimlama.genruntimeconfig.cache
