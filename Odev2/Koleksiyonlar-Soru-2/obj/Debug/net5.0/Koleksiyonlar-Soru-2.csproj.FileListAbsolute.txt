@@ -1,0 +1,16 @@
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\bin\Debug\net5.0\Koleksiyonlar-Soru-2.exe
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\bin\Debug\net5.0\Koleksiyonlar-Soru-2.deps.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\bin\Debug\net5.0\Koleksiyonlar-Soru-2.runtimeconfig.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\bin\Debug\net5.0\Koleksiyonlar-Soru-2.runtimeconfig.dev.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\bin\Debug\net5.0\Koleksiyonlar-Soru-2.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\bin\Debug\net5.0\ref\Koleksiyonlar-Soru-2.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\bin\Debug\net5.0\Koleksiyonlar-Soru-2.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\obj\Debug\net5.0\Koleksiyonlar-Soru-2.csprojAssemblyReference.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\obj\Debug\net5.0\Koleksiyonlar-Soru-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\obj\Debug\net5.0\Koleksiyonlar-Soru-2.AssemblyInfoInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\obj\Debug\net5.0\Koleksiyonlar-Soru-2.AssemblyInfo.cs
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\obj\Debug\net5.0\Koleksiyonlar-Soru-2.csproj.CoreCompileInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\obj\Debug\net5.0\Koleksiyonlar-Soru-2.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\obj\Debug\net5.0\ref\Koleksiyonlar-Soru-2.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\obj\Debug\net5.0\Koleksiyonlar-Soru-2.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Odev2\Koleksiyonlar-Soru-2\obj\Debug\net5.0\Koleksiyonlar-Soru-2.genruntimeconfig.cache
