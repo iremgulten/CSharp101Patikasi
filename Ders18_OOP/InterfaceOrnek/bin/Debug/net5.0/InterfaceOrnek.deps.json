@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InterfaceOrnek/1.0.0": {
+        "runtime": {
+          "InterfaceOrnek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfaceOrnek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\bin\Debug\net5.0\InterfaceOrnek.exe
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\bin\Debug\net5.0\InterfaceOrnek.deps.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\bin\Debug\net5.0\InterfaceOrnek.runtimeconfig.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\bin\Debug\net5.0\InterfaceOrnek.runtimeconfig.dev.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\bin\Debug\net5.0\InterfaceOrnek.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\bin\Debug\net5.0\ref\InterfaceOrnek.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\bin\Debug\net5.0\InterfaceOrnek.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\obj\Debug\net5.0\InterfaceOrnek.csprojAssemblyReference.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\obj\Debug\net5.0\InterfaceOrnek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\obj\Debug\net5.0\InterfaceOrnek.AssemblyInfoInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\obj\Debug\net5.0\InterfaceOrnek.AssemblyInfo.cs
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\obj\Debug\net5.0\InterfaceOrnek.csproj.CoreCompileInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\obj\Debug\net5.0\InterfaceOrnek.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\obj\Debug\net5.0\ref\InterfaceOrnek.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\obj\Debug\net5.0\InterfaceOrnek.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\Ders18_OOP\InterfaceOrnek\obj\Debug\net5.0\InterfaceOrnek.genruntimeconfig.cache
