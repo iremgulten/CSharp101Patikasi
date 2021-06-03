@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TCvRrCS/Z9KeX5Qo7Lz2quwWd5jvhFD7qlAKc3GJxlW44pXwxz/ninJ9D8e9PnEdJfGWSqN/QiqMsLZZCvJo8w==",
+  "success": true,
+  "projectFilePath": "D:\\Drive\\PatikaEgitim\\CSharp101_Patikasi\\PROJE1_TelefonRehberiUygulamasi\\TelefonRehberiProjesi\\TelefonRehberiProjesi\\TelefonRehberiProjesi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
