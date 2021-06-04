@@ -1,0 +1,16 @@
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\bin\Debug\net5.0\PROJE2_ToDo.exe
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\bin\Debug\net5.0\PROJE2_ToDo.deps.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\bin\Debug\net5.0\PROJE2_ToDo.runtimeconfig.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\bin\Debug\net5.0\PROJE2_ToDo.runtimeconfig.dev.json
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\bin\Debug\net5.0\PROJE2_ToDo.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\bin\Debug\net5.0\ref\PROJE2_ToDo.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\bin\Debug\net5.0\PROJE2_ToDo.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\obj\Debug\net5.0\PROJE2_ToDo.csprojAssemblyReference.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\obj\Debug\net5.0\PROJE2_ToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\obj\Debug\net5.0\PROJE2_ToDo.AssemblyInfoInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\obj\Debug\net5.0\PROJE2_ToDo.AssemblyInfo.cs
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\obj\Debug\net5.0\PROJE2_ToDo.csproj.CoreCompileInputs.cache
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\obj\Debug\net5.0\PROJE2_ToDo.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\obj\Debug\net5.0\ref\PROJE2_ToDo.dll
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\obj\Debug\net5.0\PROJE2_ToDo.pdb
+D:\Drive\PatikaEgitim\CSharp101_Patikasi\PROJE2_ToDo\obj\Debug\net5.0\PROJE2_ToDo.genruntimeconfig.cache
